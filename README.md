@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @kxrthiikk
-- 👀 I’m interested in coding and web development
-- 🌱 I’m an BCA graduated
-- 📫 How to reach me ...@karthiksanthosh360@gmail.com
+# 👋 Hi, I'm Karthik Santhosh
 
-<!---
-kxrthiikk/kxrthiikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Developer with 2+ years of experience in backend development.  
+🚀 Skilled in PHP (Yii2, Laravel), API development, and MySQL.  
+🔧 Experienced in CRM systems, payment integrations, and real-time apps.  
+🌱 Currently learning React and modern web technologies.  
+
+## 🛠️ Tech Stack
+- Backend: PHP, Yii2, Laravel
+- Frontend: HTML, CSS, JavaScript, React (learning)
+- Database: MySQL
+- Tools: Git, REST APIs, Postman
+
+## 📫 Contact Me
+- Email: karthiksanthosh360@gmail.com
+
+---
+✨ Always learning and building.
