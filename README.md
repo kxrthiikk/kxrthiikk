@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on building scalable backend systems and improving my full-stack development skills with Yii2, React, and Firebase<br>
+👯 I’m looking to collaborate on real-world web applications, SaaS products, and API-driven systems<br>
+🤝 I’m looking for help with system design, scalable architecture, and advanced backend patterns<br>
+🌱 I’m currently learning Java (deep dive), Spring Boot basics, and system design concepts for interviews<br>
+💬 Ask me about PHP (Yii2), REST APIs, MySQL optimization, WhatsApp API integrations, and backend development<br>
+⚡ Fun fact: I started with PHP and ended up enjoying backend logic more than UI — but now I’m pushing myself to master both sides<br>
 
 
 ## 🌐 Socials:
